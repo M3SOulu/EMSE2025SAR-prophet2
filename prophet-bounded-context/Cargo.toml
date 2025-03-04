@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-source-code-parser = { git = "https://github.com/cloudhubs/source-code-parser", rev = "6af6bc3" }
+source-code-parser = { git = "https://github.com/M3SOulu/EMSE2025SAR-source-code-parser", rev = "c2000c8" }
 prophet-model = { path = "../prophet-model" }
 petgraph = "0.6.0"
 serde = { version = "1.0.130", features = ["derive"] }
